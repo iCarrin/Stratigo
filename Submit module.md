@@ -6,7 +6,7 @@
 | Isaiah Carrin | 3/10/2025 | Porter McGary |
 
 ### Project Repository Link
-Copy the link to your [Github Repository](<!-- Insert Link Here -->)
+Copy the link to your [Github Repository](https://github.com/iCarrin/Stratigo)
 
 ### Module
 Mark an **X** next to the module you completed
