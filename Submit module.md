@@ -3,7 +3,7 @@
 
 |Name|Date|Teacher|
 |-|-|-|
-| Isaiah Carrin  | 3/10/2025 | Porter McGary |
+| Isaiah Carrin | 3/10/2025 | Porter McGary |
 
 ### Project Repository Link
 Copy the link to your [Github Repository](<!-- Insert Link Here -->)
@@ -28,12 +28,12 @@ Complete the following checklist to make sure you completed all parts of the mod
 
 |Question                                                                                         |Your Response|Comments|
 |--------------------------------------------------------------------------------------------------------------------|-|-|
-|Did you implement the entire set of unique requirements as described in the Module Description document in I-Learn? | | |
-|Did you write at least 100 lines of code in your software and include useful comments?                              | | |
-|Did you use the correct README.md template from the Module Description document in I-Learn?                         | | |
-|Did you completely populate the README.md template?                                                                 | | |
-|Did you create the video, publish it on YouTube, and reference it in the README.md file?                            | | |
-|Did you publish the code with the README.md (in the top-level folder) into a public GitHub repository?              | | |
+|Did you implement the entire set of unique requirements as described in the Module Description document in I-Learn? | X | |
+|Did you write at least 100 lines of code in your software and include useful comments?                              | X | |
+|Did you use the correct README.md template from the Module Description document in I-Learn?                         | X | |
+|Did you completely populate the README.md template?                                                                 | | X | waiting on the Youtube video
+|Did you create the video, publish it on YouTube, and reference it in the README.md file?                            | | X |
+|Did you publish the code with the README.md (in the top-level folder) into a public GitHub repository?              | X | |
  
 
 ### Did you complete a Stretch Challenge 
@@ -46,16 +46,14 @@ How many hours did you spend on this module and the team project this Sprint?
 
 |              |Hours|
 |------------------|-|
-|Individual Module | |
+|Individual Module | X |
 |Team Project      | |
 
 ### Retrospective
 - What learning strategies worked well in this module?
-  <!-- Response Here -->
+  Reading the documentation
 - What strategies (or lack of strategy) did not work well?
-  <!-- Response Here -->
+  Expecting to pick it up in 10 hours
 - How can you improve in the next module?
-  <!-- Response Here -->
+  Try harder/ do better
 
-
-<!-- Create this Markdown to a PDF and submit it. In visual studio code you can convert this to a pdf with any one of the extensions. -->

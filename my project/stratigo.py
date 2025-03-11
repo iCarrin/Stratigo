@@ -12,7 +12,7 @@ import arcade
 #add win screen
 #maybe add suspicioun clicking.. stretch
 
-SCALE = 2.5
+SCALE = 2
 
 SCREEN_WIDTH = 480*SCALE
 SCREEN_HEIGHT = 400*SCALE
@@ -68,7 +68,7 @@ class WholeBoard(arcade.Window):
 
     def setup(self):
         """call to reset the game"""
-        self.picked_up_piece = None
+        self.picked_up_piece = ""
         self.picked_up_piece_original_position = ""
 
 
@@ -148,7 +148,7 @@ class WholeBoard(arcade.Window):
         blue_pieces = arcade.get_sprites_at_point((x, y), self.blue_list)
 
         if red_pieces:
-            self.picked_up_piece = red_pieces[0]
+            self.picked_up_piece = red_pieces[-1]
             self.picked_up_piece_original_position = (self.picked_up_piece.center_x, self.picked_up_piece.center_y)
 
         elif blue_pieces:
