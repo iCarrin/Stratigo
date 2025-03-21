@@ -6,7 +6,7 @@ I wanted to learn arcade, practice game development, and practice my Python. It'
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IG4L4A6t0A4)
 
 # Development Environment
 

@@ -3,7 +3,7 @@
 
 |Name|Date|Teacher|
 |-|-|-|
-| Isaiah Carrin | 3/10/2025 | Porter McGary |
+| Isaiah Carrin | 3/11/2025 | Porter McGary |
 
 ### Project Repository Link
 Copy the link to your [Github Repository](https://github.com/iCarrin/Stratigo)
